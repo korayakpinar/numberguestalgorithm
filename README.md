@@ -1,3 +1,3 @@
-# numberguestmachine
+# numberguestalgorithm
 This algorithm tries to guess numbers between 25 and 0.
-© 2020 Koray Akpınar All Rights Reserved
+You can contact me with this discord name:Dex#8220
